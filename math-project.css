@@ -1,0 +1,19 @@
+body {
+	background-color: #66ffff;
+	font-family: 'Lato', sans-serif;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-size: 15px;
+	font: arial;
+	color: black;
+}
+.top {
+	font-size: 40px;
+}
+
+.italics {
+	font-style: italic;
+}
